@@ -83,10 +83,4 @@ A system to compare ride fares and suggest optimized travel options.
 
 ---
 
-## Fun Fact
-
-I love combining robotics + software to build intelligent systems that solve real-world problems.
-
----
-
 Thanks for visiting my profile!
