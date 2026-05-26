@@ -1,5 +1,5 @@
  Hi, I'm Sanskriti Jain  
- Bengaluru, India | CSE Student | Robotics & Full Stack Developer  
+ Bengaluru, India | CSE Student | Full Stack Developer  
 
 ---
 
