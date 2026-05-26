@@ -12,7 +12,7 @@ I am currently focused on Full Stack Development, DSA, and Autonomous Robotics s
 - B.Tech CSE Student (Newton School of Technology, Bengaluru)  
 - Robotics & AI Enthusiast  
 - Full Stack Developer (React + Backend learning)  
-- Problem Solver (DSA + Competitive Programming)  
+- Problem Solver 
 - Goal: Internship in a top product-based tech company  
 
 ---
@@ -21,7 +21,7 @@ I am currently focused on Full Stack Development, DSA, and Autonomous Robotics s
 
 **Languages:** Python, JavaScript, C++, HTML, CSS  
 **Frontend:** React.js  
-**Backend:** Node.js (learning), Express.js (learning)  
+**Backend:** Node.js (learning)
 **Tools:** Git, GitHub, VS Code, Linux  
 **Other:** Arduino, Computer Vision basics  
 
