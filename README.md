@@ -62,7 +62,7 @@ A system to compare ride fares and suggest optimized travel options.
 - 1st Place – RoboSoccer Competition  
 - 1st Place – College Hackathon (Kickstart)  
 - IRoC-U 2026 – Top 74 Teams in India  
-- Robotics Club – Inventory Tech Lead  
+- Robotics Club – Inventory Lead  
 - Member – Robotics & AI/ML Club  
 
 ---
